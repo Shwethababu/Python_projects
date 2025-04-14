@@ -1,1 +1,1 @@
-Python projects where I have done Exploratory Data Analysis 
+Python projects where I have performed Exploratory Data Analysis 
